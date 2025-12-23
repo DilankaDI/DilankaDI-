@@ -48,10 +48,8 @@ My work often focuses on **travel, booking systems, and lead generation platform
 ---
 
 ## 📫 Connect With Me
-- 🌐 Website: https://yourwebsite.com
-- 💼 LinkedIn: https://linkedin.com/in/yourprofile
-- 📧 Email: your@email.com
-
+- 💼 LinkedIn: [https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/dilshan-dilanka-362777221/)
+- 📧 Email: dilshandilanka96@gmail.com
 ---
 
 ⭐ *Always learning. Always building.*
