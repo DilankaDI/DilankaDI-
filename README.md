@@ -46,6 +46,10 @@ My work often focuses on **travel, booking systems, and lead generation platform
 - Scalable frontend architecture with Next.js
 
 ---
+🏅 Holopin
+
+<img width="1359" height="707" alt="image" src="https://github.com/user-attachments/assets/91ad9717-012f-4041-9d2d-8f076bda133b" />
+
 
 ## 📫 Connect With Me
 - 💼 LinkedIn: [https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/dilshan-dilanka-362777221/)
